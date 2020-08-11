@@ -1,4 +1,4 @@
-# FormulaSAEJapan_rf2_track
+# FormulaSAEJapan_MOD_rF2
 
 This package contains Japanese Formula SAE race track MOD for rFactor2.
 
